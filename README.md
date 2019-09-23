@@ -41,7 +41,7 @@ Vim Configuration using vim-plug, dracula, nercommenter and others. All what is 
 
 ## Install Oh-My-ZSH
 
-Reference [an easy guide](https://github.com/jnfran92/my-vim-config.git)
+Here [an easy guide](https://github.com/jnfran92/my-vim-config.git)
 
 `TL;DR` run this:
 
