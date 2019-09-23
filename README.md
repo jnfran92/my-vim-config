@@ -43,6 +43,6 @@ Vim Configuration using vim-plug, dracula, nercommenter and others. All what is 
 
 Reference [an easy guide](https://github.com/jnfran92/my-vim-config.git)
 
-TL;DR, run this:
+`TL;DR` run this:
 
     sh -c "$(wget -O- https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
