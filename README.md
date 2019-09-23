@@ -1,5 +1,5 @@
 # my-vim-config
-Vim Configuration using vim-plug, dracula, nercommenter and others.
+Vim Configuration using vim-plug, dracula, nercommenter and others. All what is needed is 1 minute: Easy and quick!
 
 ## Init
 - Install: https://github.com/junegunn/vim-plug
@@ -41,4 +41,8 @@ Vim Configuration using vim-plug, dracula, nercommenter and others.
 
 ## Install Oh-My-ZSH
 
-See [this easy guide](https://github.com/jnfran92/my-vim-config.git)
+Reference [an easy guide](https://github.com/jnfran92/my-vim-config.git)
+
+TL;DR, run this:
+
+    sh -c "$(wget -O- https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
