@@ -38,3 +38,7 @@ Vim Configuration using vim-plug, dracula, nercommenter and others.
 ## Notes:
 - Nerd Commenter: `[\] + [c] +[space]`
 - Numbers in vim: `:set nu`, `:set nonu`, `:set number`, `:set nonumber`  
+
+## Install Oh-My-ZSH
+
+See [this easy guide](https://github.com/jnfran92/my-vim-config.git)
