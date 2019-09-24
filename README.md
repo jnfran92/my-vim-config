@@ -45,4 +45,6 @@ Here [an easy guide](https://github.com/jnfran92/my-vim-config.git)
 
 `TL;DR` run this:
 
+    sudo apt install zsh
+
     sh -c "$(wget -O- https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
