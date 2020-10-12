@@ -1,10 +1,17 @@
 # my-vim-config
-Vim Configuration using vim-plug, dracula, nercommenter and others. All what is needed is 1 minute: Easy and quick!
+Vim Configuration using vim-plug, dracula, nercommenter and others.
 
 ## Init
 - Install: https://github.com/junegunn/vim-plug
+
+        curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
+        https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+    
 - Create file: .vimrc
-- Copy contetnt bellow in .vimrc
+    
+        vim .vimrc 
+
+- Copy content below in .vimrc
 - Run vim command: `:PlugInstall`
 
 ## File .vimrc
@@ -53,5 +60,4 @@ Linux:
 
 Mac:
 
-
-    sh -c "$(wget -O- https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+    sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
